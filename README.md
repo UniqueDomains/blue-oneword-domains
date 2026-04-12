@@ -68,7 +68,7 @@ print(df.head())
 | home.blue     | resell    | $17,250    | $31.99        | 100            | 62     | 4      | Spaceship, Inc.                                         |
 | ace.blue      | premium   | $82.50     | $82.50        | 88             | 57     | 3      | name.com                                                |
 | demo.blue     | available | $23.99     | —             | 78             | 42     | 4      | name.com                                                |
-| zero.blue     | resell    | $6,898.85  | $28.99        | 112            | 54     | 4      | Porkbun LLC                                             |
+| zero.blue     | resell    | $6,898.85  | $28.99        | 112            | 53     | 4      | Porkbun LLC                                             |
 | clear.blue    | premium   | $2,500     | $2,500        | 90             | 49     | 5      | name.com                                                |
 | agile.blue    | available | $23.99     | $35.99        | 92             | 41     | 5      | name.com                                                |
 | one.blue      | resell    | $17,248.85 | $28.99        | 132            | 50     | 3      | Porkbun LLC                                             |
