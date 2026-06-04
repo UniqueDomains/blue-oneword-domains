@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .blue one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,345 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,345 domains · **Median ask:** $66.99 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,345 domains · **Median ask:** $58.58 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/blue`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| shortcuts.blue    | available | $23.99    | —             | 48             | 41     | 10     | name.com                                            |
-| tokens.blue       | resell    | —         | —             | 51             | 36     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| Tools.blue        | premium   | $92.40    | $92.40        | 56             | 40     | 5      | namecheap                                           |
-| lets.blue         | available | $23.99    | —             | 77             | 39     | 4      | name.com                                            |
-| maps.blue         | resell    | —         | —             | 56             | 31     | 4      | NameCheap, Inc.                                     |
-| William.blue      | premium   | $700      | $700          | 74             | 31     | 7      | namecheap                                           |
-| neuroscience.blue | available | $23.99    | —             | 80             | 37     | 12     | name.com                                            |
-| girls.blue        | resell    | —         | —             | 83             | 23     | 5      | Sav.com, LLC - 30                                   |
-| SanDiego.blue     | premium   | $78.54    | $78.54        | 74             | 29     | 9      | namesilo                                            |
-| spectra.blue      | available | $23.99    | —             | 62             | 34     | 7      | name.com                                            |
-| deeper.blue       | resell    | —         | —             | 56             | 19     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| toys.blue         | premium   | $3,750    | —             | 60             | 24     | 4      | name.com                                            |
-| slots.blue        | available | $23.99    | —             | 49             | 31     | 5      | name.com                                            |
-| motors.blue       | premium   | $1,107    | $1,107        | 50             | 18     | 6      | namesilo                                            |
-| gods.blue         | available | $23.99    | —             | 72             | 29     | 4      | name.com                                            |
-| Phillip.blue      | premium   | $92.40    | $92.40        | 70             | 14     | 7      | namecheap                                           |
-| blocks.blue       | available | $23.99    | —             | 53             | 29     | 6      | name.com                                            |
-| coats.blue        | premium   | $625      | —             | 68             | 12     | 5      | name.com                                            |
-| popup.blue        | available | $23.99    | —             | 84             | 28     | 6      | name.com                                            |
-| printers.blue     | premium   | $78.54    | $78.54        | 59             | 10     | 8      | namesilo                                            |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| fucking.blue   | available | $23.99    | —             | 58             | 43     | 7      | name.com                                            |
+| boss.blue      | resell    | $3,552.32 | —             | 76             | 74     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| music.blue     | premium   | $750      | —             | 84             | 53     | 5      | name.com                                            |
+| inspire.blue   | available | $23.99    | —             | 86             | 39     | 7      | name.com                                            |
+| prompt.blue    | resell    | —         | —             | 114            | 69     | 6      | Dynadot Inc                                         |
+| social.blue    | premium   | $2,500    | —             | 92             | 47     | 6      | name.com                                            |
+| watch.blue     | available | $23.99    | —             | 94             | 38     | 5      | name.com                                            |
+| now.blue       | resell    | —         | —             | 78             | 67     | 3      | Unstoppable Domains Inc                             |
+| law.blue       | premium   | $1,300    | $1,300        | 82             | 45     | 3      | namecheap                                           |
+| what.blue      | available | $23.99    | —             | 126            | 37     | 4      | name.com                                            |
+| search.blue    | resell    | —         | —             | 70             | 53     | 6      | Automattic Inc.                                     |
+| market.blue    | premium   | $750      | —             | 74             | 43     | 6      | name.com                                            |
+| wisdom.blue    | available | $23.99    | —             | 72             | 37     | 6      | name.com                                            |
+| business.blue  | resell    | —         | —             | 100            | 52     | 8      | Spaceship, Inc.                                     |
+| bob.blue       | premium   | $750      | —             | 88             | 42     | 3      | name.com                                            |
+| slow.blue      | available | $23.99    | —             | 114            | 35     | 4      | name.com                                            |
+| info.blue      | resell    | —         | —             | 80             | 51     | 4      | Spaceship, Inc.                                     |
+| alexander.blue | premium   | $750      | —             | 66             | 38     | 9      | name.com                                            |
+| proper.blue    | available | $23.99    | —             | 71             | 35     | 6      | name.com                                            |
+| digital.blue   | resell    | —         | —             | 100            | 48     | 7      | Sav.com, LLC                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLUE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLUE One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
