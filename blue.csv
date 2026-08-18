@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 93bda24c-9158-4b23-b806-a5a8e3451dea,nursery.blue,available,23.99,,medium,low,7,name.com,,
 94c1286d-95ec-412e-abaf-00cbe95087a4,artistry.blue,available,,,high,low,8,,,
-421672da-1549-40e8-9899-cb9e2e7daf3f,fillout.blue,available,23.99,,medium,low,8,name.com,,
+421672da-1549-40e8-9899-cb9e2e7daf3f,fillout.blue,available,13.98,32.98,low,low,8,namecheap,,
 e590d3a7-9948-4133-ad7f-c53def646ee7,tieup.blue,available,23.99,,low,low,6,name.com,,
 bde3275f-0380-4c16-aeb4-f08aa9fdb97e,agonadal.blue,available,13.98,32.98,low,low,8,namecheap,,
 12def388-7cfa-4afc-81fd-c8fa63a6af18,cautionary.blue,available,13.98,32.98,low,low,10,namecheap,,
