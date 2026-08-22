@@ -1,10 +1,10 @@
-# Available .BLUE One-Word Domains (16,659)
+# Available .BLUE One-Word Domains (17,133)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C659%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C133%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .blue one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **16,659 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **17,133 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 16,659 domains · **Median ask:** $39.22 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 17,133 domains · **Median ask:** $38.57 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/blue`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| aug.blue  | available | $13.98    | $32.98        | low            | low    | 3      | namecheap                                           |
-| boss.blue | resell    | $3,552.32 | —             | high           | high   | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| bag.blue  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
-| bud.blue  | available | $23.99    | —             | high           | low    | 3      | name.com                                            |
-| ape.blue  | resell    | —         | —             | medium         | low    | 3      | Unstoppable Domains Inc                             |
-| bob.blue  | premium   | $750      | —             | high           | medium | 3      | name.com                                            |
-| bus.blue  | available | $23.99    | —             | high           | low    | 3      | name.com                                            |
-| now.blue  | resell    | —         | —             | high           | medium | 3      | Unstoppable Domains Inc                             |
-| hat.blue  | premium   | $625      | $625          | medium         | low    | 3      | name.com                                            |
-| cod.blue  | available | $23.99    | —             | high           | low    | 3      | name.com                                            |
-| see.blue  | resell    | —         | —             | high           | low    | 3      | Unstoppable Domains Inc                             |
-| law.blue  | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap                                           |
-| cot.blue  | available | $23.99    | —             | high           | low    | 3      | name.com                                            |
-| sun.blue  | resell    | —         | —             | high           | medium | 3      | Automattic Inc.                                     |
-| lcd.blue  | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                            |
-| due.blue  | available | $23.99    | —             | high           | low    | 3      | name.com                                            |
-| too.blue  | resell    | —         | —             | high           | low    | 3      | Automattic Inc.                                     |
-| lii.blue  | premium   | $625      | $625          | low            | low    | 3      | name.com                                            |
-| err.blue  | available | $23.99    | —             | high           | low    | 3      | name.com                                            |
-| way.blue  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                     |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| christmas.blue | available | $23.99    | —             | high           | low    | 9      | name.com                                            |
+| sorry.blue     | premium   | $82.50    | $82.50        | high           | low    | 5      | name.com                                            |
+| aug.blue       | available | $13.98    | $32.98        | low            | low    | 3      | namecheap                                           |
+| boss.blue      | resell    | $3,552.32 | —             | high           | high   | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| bag.blue       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
+| bud.blue       | available | $23.99    | —             | high           | low    | 3      | name.com                                            |
+| ape.blue       | resell    | —         | —             | medium         | low    | 3      | Unstoppable Domains Inc                             |
+| bob.blue       | premium   | $750      | —             | high           | medium | 3      | name.com                                            |
+| bus.blue       | available | $23.99    | —             | high           | low    | 3      | name.com                                            |
+| now.blue       | resell    | —         | —             | high           | medium | 3      | Unstoppable Domains Inc                             |
+| hat.blue       | premium   | $625      | $625          | medium         | low    | 3      | name.com                                            |
+| cod.blue       | available | $23.99    | —             | high           | low    | 3      | name.com                                            |
+| see.blue       | resell    | —         | —             | high           | low    | 3      | Unstoppable Domains Inc                             |
+| law.blue       | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap                                           |
+| cot.blue       | available | $23.99    | —             | high           | low    | 3      | name.com                                            |
+| sun.blue       | resell    | —         | —             | high           | medium | 3      | Automattic Inc.                                     |
+| lcd.blue       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                            |
+| due.blue       | available | $23.99    | —             | high           | low    | 3      | name.com                                            |
+| too.blue       | resell    | —         | —             | high           | low    | 3      | Automattic Inc.                                     |
+| lii.blue       | premium   | $625      | $625          | low            | low    | 3      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 16,659 live domains                        |
+| 1,000-row public sample | 17,133 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLUE One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLUE One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
