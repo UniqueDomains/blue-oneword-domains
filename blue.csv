@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 93bda24c-9158-4b23-b806-a5a8e3451dea,nursery.blue,available,23.99,,medium,low,7,name.com,,,
 94c1286d-95ec-412e-abaf-00cbe95087a4,artistry.blue,available,,,high,low,8,,,,
 421672da-1549-40e8-9899-cb9e2e7daf3f,fillout.blue,available,13.98,32.98,low,low,8,namecheap,,,17/08/2026 23:11
-e590d3a7-9948-4133-ad7f-c53def646ee7,tieup.blue,available,23.99,,low,low,6,name.com,,,
+e590d3a7-9948-4133-ad7f-c53def646ee7,tieup.blue,available,13.98,32.98,low,low,6,namecheap,,,17/09/2026 14:23
 bde3275f-0380-4c16-aeb4-f08aa9fdb97e,agonadal.blue,available,13.98,32.98,low,low,8,namecheap,,,
 12def388-7cfa-4afc-81fd-c8fa63a6af18,cautionary.blue,available,13.98,32.98,low,low,10,namecheap,,,
 0eabc982-f445-4ecf-8a15-7031d08ec988,armorclad.blue,available,13.98,32.98,low,low,10,namecheap,,,06/08/2026 20:05
@@ -608,7 +608,7 @@ f2d9c0cb-ea8a-4471-8b34-e9da78496467,ancient.blue,available,23.99,,high,low,7,na
 15635d4e-c02e-4a68-9d97-1d2b02a311a0,pontifical.blue,available,13.98,32.98,low,low,10,namecheap,,,06/08/2026 04:15
 86d3ff0e-4e75-42ea-a527-188384d88386,lii.blue,premium,625,625,low,low,3,name.com,,,
 236446a0-ceb4-44fe-a6fc-da9f254e5b43,autarkic.blue,available,13.98,32.98,low,low,8,namecheap,,,07/08/2026 18:47
-cef959a5-90d6-4a2e-b68d-93c66dbe0251,charge.blue,resell,,,high,low,6,IONOS SE,30/06/2021 09:01,30/06/2026 09:01,
+cef959a5-90d6-4a2e-b68d-93c66dbe0251,charge.blue,resell,,,high,low,6,IONOS SE,30/06/2021 09:01,30/06/2027 09:01,17/09/2026 06:35
 6af203d2-d715-48f6-a8ad-23d59ee13e67,clowning.blue,available,23.99,,medium,low,8,name.com,,,
 40b9f8bf-ec73-4f44-bcbb-abdca77d3467,Nickelodeon.blue,available,23.99,,high,low,11,name.com,,,
 b5d0e29a-5600-4c35-97fb-eba6492ad093,spellcheck.blue,available,23.99,,high,low,11,name.com,,,
